@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.topnav a {
+  float: left;
+  color: #807E7E;
+  text-align: center;
+  padding: 15px 16px;
+  text-decoration: none;
+  font-size: 28px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.leftbox {
+	background-color: #646464;
+	color: #ffffff;
+	width: 450px;
+	float: left;
+	padding: 15px;
+	align-content: center;
+}
+#pic {
+	width: 500px;
+	float: left;
+}
+.footer {
+	background-color: #272626;
+	color: #ffffff;
+}
